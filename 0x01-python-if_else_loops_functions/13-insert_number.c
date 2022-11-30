@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@EdenFenta 
-girum54
-/
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
-@girum54
-girum54 permissions updated
-Latest commit fa77167 yesterday
- History
- 1 contributor
-Executable File  74 lines (63 sloc)  1.25 KB
-   
 #include <stdio.h>
 #include <stdlib.h>
 #include "lists.h"
